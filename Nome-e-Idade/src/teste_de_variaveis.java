@@ -1,4 +1,4 @@
-public class test {
+public class teste_de_variaveis {
     public static void main(String[] args) {
         byte number = 1;
         long number1 = 1L; //L caso for usar var, para identificar como long e não int
